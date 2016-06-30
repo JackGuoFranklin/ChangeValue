@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  AVFoundationDemo
-//
-//  Created by 郭 俊兵 on 16/6/30.
-//  Copyright © 2016年 jack. All rights reserved.
-//
 
 import UIKit
 
